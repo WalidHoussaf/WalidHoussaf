@@ -70,7 +70,6 @@ const walid = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,26 +99,6 @@ const walid = {
   
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidHoussaf&theme=tokyonight" alt="GitHub Streak" />
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=WalidHoussaf&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidHoussaf&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
   
 </div>
 
