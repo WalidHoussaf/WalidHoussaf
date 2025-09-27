@@ -2,8 +2,6 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00D9FF,4169E1,9932CC,FF1493&background=0D1117&multiline=true&center=true&vCenter=true&width=900&height=250&lines=Hey+there!+I'm+Walid+Houssaf;Full+Stack+Developer+%7C+Data+Scientist" alt="Animated Header Banner" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications;Exploring+Deep+Learning+%26+MLOps;Always+open+to+collaborations;Passionate+code+architect;" alt="Typing SVG" />
-  
 </div>
 
 ---
