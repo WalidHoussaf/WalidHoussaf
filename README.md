@@ -86,27 +86,6 @@ const walid = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalidHoussaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidHoussaf&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidHoussaf&theme=tokyonight" alt="GitHub Streak" />
-  
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
