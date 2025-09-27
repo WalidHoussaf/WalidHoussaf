@@ -1,11 +1,11 @@
 <!-- Banner Container -->
-<div style="position: relative; text-align: center;">
+<div style="position: relative; text-align: center; width: 100%; max-width: 100%;">
 
   <!-- Waving Background -->
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=250&section=header&animation=fadeIn" 
     alt="Background Wave" 
-    style="width: 100%; height: auto;"
+    style="width: 100%; height: auto; display: block;"
   />
 
   <!-- Orbitron Text Overlay -->
@@ -26,6 +26,7 @@
     />
   </div>
 </div>
+
 
 
 
