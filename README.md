@@ -1,6 +1,11 @@
-<div align="center">
+<!-- Waving Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=200&section=header&animation=fadeIn" alt="Background Wave" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=1&pause=99999&color=FFFFFF&background=4169E1,1E3A8A&center=true&vCenter=true&width=900&height=200&lines=Hey+there!+I'm+Walid+Houssaf;Full+Stack+Developer+%7C+Data+Scientist" alt="Orbitron Header Banner" />
+  <!-- Orbitron Text Overlay -->
+  <div style="margin-top: -200px; position: relative; z-index: 10;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Hey+there!+I'm+Walid+Houssaf" alt="Main Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=20&duration=1&pause=99999&color=E0E0E0&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%7C+Data+Scientist" alt="Subtitle" />
+  </div>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🚀+Building+AI-powered+web+applications;🧠+Exploring+Deep+Learning+%26+MLOps;🤝+Always+open+to+collaborations;💻+Passionate+code+architect;🎮+Gamer+•+📚+Manga+reader+•+🌙+Sky+watcher" alt="Dynamic Typing Animation" />
   
