@@ -18,16 +18,19 @@ const walid = {
     location: "🌍 Earth",
     currentFocus: "Building AI-powered web applications & ML models",
     funFact: "I debug with console.log() and train models with coffee! ☕🤖",
-    askMeAbout: ["Web Dev", "Data Science", "Machine Learning", "AI", "Python", "Tech"],
+    whenNotCoding: ["Gaming 🎮", "Reading manga 📚", "Sky gazing 🌙"],
+    askMeAbout: ["Web Dev", "Data Science", "Machine Learning", "AI", "Python", "Tech", "Gaming", "Anime and Manga"],
     technologies: {
         frontEnd: ["React", "Vue.js", "JavaScript", "TypeScript", "HTML5", "CSS3"],
         backEnd: ["Node.js", "Python", "Express", "Django", "FastAPI"],
         dataScience: ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
         machineLearning: ["TensorFlow", "PyTorch", "Keras", "OpenCV", "NLTK", "Hugging Face"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
         tools: ["Git", "Docker", "VS Code", "Jupyter", "Google Colab", "Figma"]
     },
     currentlyLearning: "Advanced Deep Learning & MLOps! 🎯"
+    openToCollaborate: "AI/ML open source projects 🤝
 };
 ```
 
