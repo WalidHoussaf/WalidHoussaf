@@ -118,7 +118,7 @@ const walid = {
                                       ▸ DMs open for tech talks and project ideas
 
                                          ⟨ Passionate code architect turning data into digital magic ⟩
-                                        ⟨ Gamer • Manga reader • Sky watcher ⟩
+                                  ⟨ Gamer • Manga reader • Sky watcher ⟩
 ```
 
 </div>
