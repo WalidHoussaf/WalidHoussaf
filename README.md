@@ -136,18 +136,28 @@ const walid = {
   
   <h3>🎯 Showcasing my best work</h3>
   
-  <!-- Repository cards -->
+  <!-- Repository cards - Vertical Stack Style -->
   <div align="center">
+    
+    <!-- Project 1 -->
     <a href="https://github.com/WalidHoussaf/Vogue_Vault_Boutique">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Vogue_Vault_Boutique&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="E-Commerce Clothing Boutique" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Vogue_Vault_Boutique&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=00d9ff" alt="E-Commerce Clothing Boutique" />
     </a>
+    
+    <br><br>
+    
+    <!-- Project 2 -->
     <a href="https://github.com/WalidHoussaf/Car_Rental_Website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Car_Rental_Website&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="Car Rental Website" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Car_Rental_Website&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=00d9ff" alt="Car Rental Website" />
     </a>
-    <br>
+    
+    <br><br>
+    
+    <!-- Project 3 -->
     <a href="https://github.com/WalidHoussaf/Caftan_Website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Caftan_Website&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="Caftan Website" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Caftan_Website&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=00d9ff" alt="Caftan Website" />
     </a>
+    
   </div>
   
   <!-- Call to action -->
