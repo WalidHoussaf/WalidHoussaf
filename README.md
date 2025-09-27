@@ -17,7 +17,7 @@ const walid = {
     pronouns: "He/Him",
     location: "🌍 Earth",
     currentFocus: "Building AI-powered web applications & ML models",
-    funFact: "I debug with console.log() and train models with coffee! ☕🤖",
+    funFact: "I debug with console.log() and celebrate with boss fights! 🏆",
     whenNotCoding: ["Gaming 🎮", "Reading manga 📚", "Sky gazing 🌙"],
     askMeAbout: ["Web Dev", "Data Science", "Machine Learning", "AI", "Python", "Tech", "Gaming", "Anime and Manga"],
     technologies: {
