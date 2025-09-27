@@ -113,7 +113,7 @@ const walid = {
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
   
-  <h3> Showcasing my best work </h3>
+  <h3> Showcasing My Best Work 🐉 </h3>
   
   <!-- Repository cards  -->
   <table>
@@ -134,7 +134,7 @@ const walid = {
       </td>
     </tr>
   </table>
-  
+{{ ... }}
   <!-- Call to action -->
   <br>
   <a href="https://github.com/WalidHoussaf?tab=repositories">
