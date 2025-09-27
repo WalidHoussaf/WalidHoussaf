@@ -101,38 +101,20 @@ const walid = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=WalidHoussaf&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidHoussaf&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-  
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
   
-  ```
-  🔭 Currently working on: AI-powered web applications & ML models
-  🌱 Learning: Advanced Deep Learning, MLOps, and Computer Vision
-  👯 Looking to collaborate on: Open source ML/AI projects
-  💬 Ask me about: Data Science, Machine Learning, Python, Web Dev
-  📫 How to reach me: Check the links below!
-  ⚡ Fun fact: I turn coffee into code and data into insights! ☕➡️💻📊
-  ```
+┌─ 🎯 Full Stack Developer and Data Scientist ─┐
+
+▸ Building intelligent web apps & ML systems that matter
+▸ Exploring the frontiers of Deep Learning & MLOps
+▸ Always open to groundbreaking AI collaborations  
+▸ Expert in: Python | Data Science | ML | Web Dev
+▸ DMs open for tech talks and project ideas
+
+⟨ Passionate code architect turning data into digital magic ⟩
+⟨ Gamer • Manga reader • Sky watcher ⟩
   
 </div>
 
@@ -145,20 +127,6 @@ const walid = {
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WalidHoussaf)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walid-dev)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walid.houssaf.dev@gmail.com)
-  
-</div>
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-  
-  If you like my work and want to support me, consider buying me a coffee! ☕
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/walidhoussaf)
-
-  Not Currently Available
   
 </div>
 
