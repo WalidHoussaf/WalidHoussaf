@@ -2,7 +2,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00D9FF,4169E1,9932CC,FF1493&background=0D1117&multiline=true&center=true&vCenter=true&width=900&height=150&lines=Hey+there!+I'm+Walid+Houssaf;Full+Stack+Developer+%7C+Data+Scientist" alt="Animated Header Banner" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications;Exploring+Deep+Learning+%26+MLOps;Always+open+to+collaborations;Passionate+code+architect;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=28&duration=2000&pause=500&color=00D9FF,FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🚀+Building+AI-powered+web+applications;🧠+Exploring+Deep+Learning+%26+MLOps;🤝+Always+open+to+collaborations;💻+Passionate+code+architect;🎮+Gamer+•+📚+Manga+reader+•+🌙+Sky+watcher" alt="Dynamic Typing Animation" />
   
 </div>
 
