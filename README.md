@@ -30,7 +30,7 @@ const walid = {
         tools: ["Git", "Docker", "VS Code", "Jupyter", "Google Colab", "Figma"]
     },
     currentlyLearning: "Advanced Deep Learning & MLOps! 🎯"
-    openToCollaborate: "AI/ML open source projects 🤝
+    openToCollaborate: "AI/ML open source projects 🤝"
 };
 ```
 
@@ -134,22 +134,8 @@ const walid = {
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WalidHoussaf)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walid-dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walid-dev)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walid.houssaf.dev@gmail.com)
-  
-</div>
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-  
-  If you like my work and want to support me, consider buying me a coffee! ☕
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/walidhoussaf)
-
-  Not Currently Available
   
 </div>
 
