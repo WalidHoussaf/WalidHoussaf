@@ -107,45 +107,6 @@ const walid = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
-  
-  <h3> Showcasing My Best Work 🐉 </h3>
-  
-  <!-- Repository cards  -->
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <a href="https://github.com/WalidHoussaf/Vogue_Vault_Boutique">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Vogue_Vault_Boutique&theme=tokyonight" alt="Vogue Vault Boutique" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <a href="https://github.com/WalidHoussaf/Car_Rental_Website">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Car_Rental_Website&theme=tokyonight" alt="Car Rental Website" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-  <!-- Call to action -->
-  <br>
-  <a href="https://github.com/WalidHoussaf?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-00d9ff?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer" alt="divider" />
-  
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -166,15 +127,4 @@ const walid = {
   
   *🎧 Perfect beats for coding and data crunching!*
   
-</div>
-
----
-
-<div align="center">
-  
-  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  ---
 </div>
