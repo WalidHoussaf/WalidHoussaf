@@ -111,13 +111,13 @@ const walid = {
 ```
                                   ┌─ 🎯 AI Engineer & Data Scientist ─┐
 
-                                      ▸ Building intelligent web apps & ML systems that matter
-                                      ▸ Exploring the frontiers of Deep Learning & MLOps
-                                      ▸ Always open to groundbreaking AI collaborations  
-                                      ▸ Expert in: Python | Data Science | ML | Web Dev
-                                      ▸ DMs open for tech talks and project ideas
+                                    ▸ Building intelligent web apps & ML systems that matter
+                                    ▸ Exploring the frontiers of Deep Learning & MLOps
+                                    ▸ Always open to groundbreaking AI collaborations  
+                                    ▸ Expert in: Python | Data Science | ML | Web Dev
+                                    ▸ DMs open for tech talks and project ideas
 
-                                         ⟨ Passionate code architect turning data into digital magic ⟩
+                                        ⟨ Passionate code architect turning data into digital magic ⟩
                                   ⟨ Gamer • Manga reader • Sky watcher ⟩
 ```
 
