@@ -3,7 +3,7 @@
 
   <!-- Waving Background -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=200&section=header&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=250&section=header&animation=fadeIn" 
     alt="Background Wave" 
     style="width: 100%; height: auto;"
   />
@@ -19,16 +19,14 @@
       src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=20&duration=1&pause=99999&color=E0E0E0&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%7C+Data+Scientist" 
       alt="Subtitle" 
     />
+    <br />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🚀+Building+AI-powered+web+applications;🧠+Exploring+Deep+Learning+%26+MLOps;🤝+Always+open+to+collaborations;💻+Passionate+code+architect;🎮+Gamer+•+📚+Manga+reader+•+🌙+Sky+watcher" 
+      alt="Dynamic Typing Animation" 
+    />
   </div>
 </div>
 
-<!-- Dynamic Typing Animation -->
-<div style="margin-top: 20px; text-align: center;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🚀+Building+AI-powered+web+applications;🧠+Exploring+Deep+Learning+%26+MLOps;🤝+Always+open+to+collaborations;💻+Passionate+code+architect;🎮+Gamer+•+📚+Manga+reader+•+🌙+Sky+watcher" 
-    alt="Dynamic Typing Animation" 
-  />
-</div>
 
 
 ---
