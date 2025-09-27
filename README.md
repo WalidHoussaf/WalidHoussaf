@@ -1,20 +1,8 @@
-# 👋 Hey there! I'm Walid Houssaf
+# Hey there! I'm Walid Houssaf
 
 <div align="center">
-  
-  <!-- Animated typing effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;ML+%26+AI+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
   
-  <!-- Profile views counter with modern styling -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=WalidHoussaf&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/WalidHoussaf?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="GitHub followers" />
-  </p>
-  
-  <!-- Wave animation with better styling -->
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" height="50px" style="margin: 10px;" />
-  
-  <!-- Additional animated elements for better visual appeal -->
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=header&animation=fadeIn" alt="Header Wave" />
   
