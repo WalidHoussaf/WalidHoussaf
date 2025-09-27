@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=200&section=header&text=Hey%20there!%20I'm%20Walid%20Houssaf&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20" alt="Static Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=1&pause=99999&color=FFFFFF&background=4169E1,1E3A8A&center=true&vCenter=true&width=900&height=200&lines=Hey+there!+I'm+Walid+Houssaf;Full+Stack+Developer+%7C+Data+Scientist" alt="Orbitron Header Banner" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=🚀+Building+AI-powered+web+applications;🧠+Exploring+Deep+Learning+%26+MLOps;🤝+Always+open+to+collaborations;💻+Passionate+code+architect;🎮+Gamer+•+📚+Manga+reader+•+🌙+Sky+watcher" alt="Dynamic Typing Animation" />
   
