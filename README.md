@@ -1,7 +1,23 @@
-#  Hey there! I'm Walid Houssaf
+# 👋 Hey there! I'm Walid Houssaf
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;ML+%26+AI+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" /> 
+  
+  <!-- Animated typing effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;ML+%26+AI+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  
+  <!-- Profile views counter with modern styling -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=WalidHoussaf&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/WalidHoussaf?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="GitHub followers" />
+  </p>
+  
+  <!-- Wave animation with better styling -->
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px" height="50px" style="margin: 10px;" />
+  
+  <!-- Additional animated elements for better visual appeal -->
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=header&animation=fadeIn" alt="Header Wave" />
+  
 </div>
 
 ---
@@ -101,20 +117,42 @@ const walid = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=WalidHoussaf&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidHoussaf&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
   
-┌─ 🎯 Full Stack Developer and Data Scientist ─┐
+  ```
+  ┌─ 🎯 AI Engineer & Data Scientist ─┐
 
-▸ Building intelligent web apps & ML systems that matter
-▸ Exploring the frontiers of Deep Learning & MLOps
-▸ Always open to groundbreaking AI collaborations  
-▸ Expert in: Python | Data Science | ML | Web Dev
-▸ DMs open for tech talks and project ideas
+  ▸ Building intelligent web apps & ML systems that matter
+  ▸ Exploring the frontiers of Deep Learning & MLOps
+  ▸ Always open to groundbreaking AI collaborations  
+  ▸ Expert in: Python | Data Science | ML | Web Dev
+  ▸ DMs open for tech talks and project ideas
 
-⟨ Passionate code architect turning data into digital magic ⟩
-⟨ Gamer • Manga reader • Sky watcher ⟩
+  ⟨ Passionate code architect turning data into digital magic ⟩
+  ⟨ Gamer • Manga reader • Sky watcher ⟩
+  ```
   
 </div>
 
@@ -127,6 +165,20 @@ const walid = {
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WalidHoussaf)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walid-dev)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walid.houssaf.dev@gmail.com)
+  
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+  
+  If you like my work and want to support me, consider buying me a coffee! ☕
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/walidhoussaf)
+
+  Not Currently Available
   
 </div>
 
@@ -146,7 +198,7 @@ const walid = {
 
 <div align="center">
   
-  ### 🌟 "Programming is thinking, not typing." - Casey Patton
+  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
