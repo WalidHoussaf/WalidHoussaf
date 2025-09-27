@@ -178,7 +178,7 @@ const walid = {
 
 <div align="center">
   
-  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### 🌟 "Programming is thinking, not typing." - Casey Patton
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
