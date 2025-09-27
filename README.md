@@ -153,7 +153,7 @@ const walid = {
 
 <div align="center">
   
-  [![Spotify](https://open.spotify.com/playlist/33xriV8Zql5imx7LHxEwcB?si=8cea8ffb0607426a)
+  [![Spotify](https://open.spotify.com/playlist/33xriV8Zql5imx7LHxEwcB?si=8cea8ffb0607426a)]
   
 </div>
 
