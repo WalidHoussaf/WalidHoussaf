@@ -1,16 +1,7 @@
-# 👋 Hey there! I'm Walid Houssaf
+#  Hey there! I'm Walid Houssaf
 
 <div align="center">
-  
-  <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;ML+%26+AI+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-  
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=WalidHoussaf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  <!-- Wave animation -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;ML+%26+AI+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" /> 
 </div>
 
 ---
