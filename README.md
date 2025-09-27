@@ -133,15 +133,6 @@ const walid = {
         </div>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center">
-          <a href="https://github.com/WalidHoussaf/Caftan_Website">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Caftan_Website&theme=tokyonight" alt="Caftan Website" />
-          </a>
-        </div>
-      </td>
-    </tr>
   </table>
   
   <!-- Call to action -->
