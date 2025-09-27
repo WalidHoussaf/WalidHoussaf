@@ -126,6 +126,40 @@ const walid = {
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+  
+  <h3>🎯 Showcasing my best work</h3>
+  
+  <!-- Repository cards -->
+  <div align="center">
+    <a href="https://github.com/WalidHoussaf/Vogue_Vault_Boutique">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Vogue_Vault_Boutique&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="E-Commerce Clothing Boutique" />
+    </a>
+    <a href="https://github.com/WalidHoussaf/Car_Rental_Website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Car_Rental_Website&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="Car Rental Website" />
+    </a>
+    <br>
+    <a href="https://github.com/WalidHoussaf/Caftan_Website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Caftan_Website&theme=tokyonight&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="Caftan Website" />
+    </a>
+  </div>
+  
+  <!-- Call to action -->
+  <br>
+  <a href="https://github.com/WalidHoussaf?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00d9ff?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer" alt="divider" />
+  
+</div>
+
 
 ---
 
