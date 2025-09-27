@@ -88,7 +88,7 @@ const walid = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalidHoussaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidHoussaf&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidHoussaf&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
 
