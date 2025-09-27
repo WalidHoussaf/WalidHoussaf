@@ -117,7 +117,7 @@ const walid = {
                                     ▸ Expert in: Python | Data Science | ML | Web Dev
                                     ▸ DMs open for tech talks and project ideas
 
-                                      ⟨ Passionate code architect turning data into digital magic ⟩
+                                    ⟨ Passionate code architect turning data into digital magic ⟩
                                   ⟨ Gamer • Manga reader • Sky watcher ⟩
 ```
 
