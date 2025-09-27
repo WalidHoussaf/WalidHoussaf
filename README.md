@@ -1,6 +1,8 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=200&section=header&text=Hey%20there!%20I'm%20Walid%20Houssaf&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=1&pause=99999&color=FFFFFF&background=4169E1FF&center=true&vCenter=true&width=800&height=200&lines=Hey+there!+I'm+Walid+Houssaf" alt="Header Banner" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=20&duration=1&pause=99999&color=E0E0E0&background=1E3A8AFF&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%7C+Data+Scientist" alt="Subtitle Banner" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications;Exploring+Deep+Learning+%26+MLOps;Always+open+to+collaborations;Passionate+code+architect;" alt="Typing SVG" />
   
