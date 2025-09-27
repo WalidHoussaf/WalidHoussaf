@@ -121,14 +121,14 @@ const walid = {
       <td width="50%">
         <div align="center">
           <a href="https://github.com/WalidHoussaf/Vogue_Vault_Boutique">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Vogue_Vault_Boutique&theme=onedark" alt="Vogue Vault Boutique" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Vogue_Vault_Boutique&theme=tokyonight" alt="Vogue Vault Boutique" />
           </a>
         </div>
       </td>
       <td width="50%">
         <div align="center">
           <a href="https://github.com/WalidHoussaf/Car_Rental_Website">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Car_Rental_Website&theme=onedark" alt="Car Rental Website" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalidHoussaf&repo=Car_Rental_Website&theme=tokyonight" alt="Car Rental Website" />
           </a>
         </div>
       </td>
