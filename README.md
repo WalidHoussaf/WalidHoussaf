@@ -1,15 +1,21 @@
-<!-- Banner Container -->
-<div style="position: relative; text-align: center; width: 100%; max-width: 100%;">
+<div style="position: relative; text-align: center; width: 100%;">
 
-  <!-- Waving Background -->
+  <!-- Waving Banner -->
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21,25,30&height=250&section=header&animation=fadeIn" 
-    alt="Background Wave" 
+    alt="Banner" 
     style="width: 100%; height: auto; display: block;"
   />
 
-  <!-- Orbitron Text Overlay -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+  <!-- Text Overlay -->
+  <div style="
+    position: absolute; 
+    top: 60%;   /* move down closer to bottom wave */
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 10;">
+    
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Hey+there!+I'm+Walid+Houssaf" 
       alt="Main Title" 
@@ -26,6 +32,7 @@
     />
   </div>
 </div>
+
 
 
 
