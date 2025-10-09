@@ -25,7 +25,7 @@ const walid = {
         cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
         tools: ["Git", "Docker", "VS Code", "Jupyter", "Google Colab", "Figma"]
     },
-    currentlyLearning: "Advanced Deep Learning & MLOps! 🎯"
+    currentlyLearning: "Advanced Deep Learning & MLOps! 🎯",
     openToCollaborate: "AI/ML open source projects 🤝"
 };
 ```
@@ -107,9 +107,9 @@ const walid = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=WalidHoussaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WalidHoussaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidHoussaf&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidHoussaf&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6&cache_seconds=1800" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -121,7 +121,7 @@ const walid = {
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidHoussaf&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WalidHoussaf&theme=tokyonight" alt="Contribution Graph" />
   
 </div>
 
