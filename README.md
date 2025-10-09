@@ -115,7 +115,7 @@ const walid = {
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidHoussaf&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF1493&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WalidHoussaf&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF1493&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
   
 </div>
 
